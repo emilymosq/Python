@@ -35,4 +35,36 @@
 #     if tieneA(alumno):
 #         print(f"{alumno.capitalize()} contiene la letra a")
 
+#   nombre = input("Introduce el nombre del trabajador: ")
+#     salario = float(input("Introduce el sueldo bruto del trabajador: "))
+#     if salario > 0:
+#         salarioNeto()
+#         listaTrabajadores.append((nombre, salarioNeto))
+#     else:
+#         print("El sueldo no puede ser negativo")
+#         break
+#     continuar = input("¿Desea introducir otro trabajador? (s/n): ")
+#     if continuar.lower()!= "s":
+#         continuar = False
+
+# numero = int(input("Introduce un numero: "))
+#     if opcion == 1:
+#         if numero % 2 == 0:
+#             print(f"{numero} es par")
+#         else:
+#             print(f"{numero} es impar")
+#     elif opcion == 2:
+#         if numero % 2 == 0:
+#             print(f"{numero} es par")
+#         else:
+#             print(f"{numero} es impar")
+#     elif opcion == 3:
+#         if numero % 4 == 0 and numero % 100 != 0 or numero % 400 == 0:
+#             print(f"{numero} es bisiesto")
+#         else:
+#             print(f"{numero} no es bisiesto")
+#     else:
+#         print("Opcion no valida")
+#     opcion = menu()
+
 
